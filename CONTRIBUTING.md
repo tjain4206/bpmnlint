@@ -5,3 +5,4 @@ Notes and usage details for bpmnlint.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
